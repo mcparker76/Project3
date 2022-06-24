@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PythonCPPProject", "PythonCPPProject\PythonCPPProject.vcxproj", "{AB87E16E-99C5-4DC1-8EDA-1833568C212E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Debug|x64.ActiveCfg = Debug|x64
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Debug|x64.Build.0 = Debug|x64
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Debug|x86.Build.0 = Debug|Win32
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Release|x64.ActiveCfg = Release|x64
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Release|x64.Build.0 = Release|x64
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Release|x86.ActiveCfg = Release|Win32
+		{AB87E16E-99C5-4DC1-8EDA-1833568C212E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9BCA9B9-AF3F-402C-ADFB-0AC4257CD0F3}
+	EndGlobalSection
+EndGlobal
